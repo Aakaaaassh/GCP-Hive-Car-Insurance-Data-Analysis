@@ -1,4 +1,4 @@
--- Data Analysis with Apache Hive on Telecom Data
+-- Data Analysis with Apache Hive on Cold Calls Data
 
 -- Problem 1: Data Loading
 
